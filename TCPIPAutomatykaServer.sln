@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPAutomatykaServer", "TCPIPAutomatykaServer.csproj", "{290D1AD6-731D-48BF-89DB-F1CB6043BCA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPClientTester", "..\TCPClientTester\TCPIPClientTester.csproj", "{5C8FB518-7308-4E7F-810C-6B043C3096FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290D1AD6-731D-48BF-89DB-F1CB6043BCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290D1AD6-731D-48BF-89DB-F1CB6043BCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290D1AD6-731D-48BF-89DB-F1CB6043BCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290D1AD6-731D-48BF-89DB-F1CB6043BCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8FB518-7308-4E7F-810C-6B043C3096FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8FB518-7308-4E7F-810C-6B043C3096FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8FB518-7308-4E7F-810C-6B043C3096FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8FB518-7308-4E7F-810C-6B043C3096FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1831D0-8977-4205-90DC-862938F6C423}
+	EndGlobalSection
+EndGlobal
