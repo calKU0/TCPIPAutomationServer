@@ -1,5 +1,7 @@
 # TCP/IP Service for Automation Systems
 
+> 💼 **Commercial Project** — part of a private or client-facing initiative.
+
 ## Overview
 A Windows Service application that facilitates communication with automation systems via the TCP/IP protocol. It integrates with Programmable Logic Controllers (PLCs) and Put-to-Light (PTL) systems, enabling seamless data exchange and control
 
