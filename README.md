@@ -1,10 +1,13 @@
-# TCP/IP Service for Automation Systems
+# TCP/IP Service for Automation Systems ⚠️ DEPRECATED
 
-> 💼 **Commercial Project** — part of a private or client-facing initiative.
+> 💼 **Commercial Project** — formerly part of a private or client-facing initiative.  
+> **Note:** This project is **deprecated**. A new and improved version is now available: [AutomationBridge](https://github.com/calKU0/AutomationBridge).
 
 ## Overview
 
-A Windows Service application that facilitates communication with automation systems via the TCP/IP protocol. It integrates with Programmable Logic Controllers (PLCs) and Put-to-Light (PTL) systems, enabling seamless data exchange and control
+This Windows Service application was designed to facilitate communication with automation systems via the TCP/IP protocol. It integrated with Programmable Logic Controllers (PLCs) and Put-to-Light (PTL) systems, enabling real-time data exchange and control.
+
+For ongoing development and the latest features, please refer to [AutomationBridge](https://github.com/calKU0/AutomationBridge).
 
 ## Features
 
@@ -14,8 +17,9 @@ A Windows Service application that facilitates communication with automation sys
 
 ## Technologies Used
 
-- **Frameworks:** .NET Framework
-- **Technologies:** C#, TCP/IP, PLC & PTL Integration
+- **Framework:** .NET Framework  
+- **Languages & Protocols:** C#, TCP/IP  
+- **Integration:** PLC & PTL systems
 
 ## License
 
